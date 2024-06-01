@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Credin",
+    "startDate": "Apr, 2024",
+    "endDate": "Present",
+    "experiences": ["Working on Loan Management System"],
+    "imageSrc": "history/credin.svg"
+  },
+  {
+    "role": "Next.js Developer",
+    "organisation": "EpVi India",
+    "startDate": "Dec, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": ["Worked on the website"],
+    "imageSrc": "history/epvi_logo.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Career Corps",
+    "startDate": "Sep, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": ["Worked on HRMS", "Worked on Company Website"],
+    "imageSrc": "history/cc.jpeg"
+  }
+]

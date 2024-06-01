@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Blog App",
+      "imageSrc": "projects/blog.png",
+      "description": "This is a project made to learn the MERN Stack.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://kavya-blog-app.netlify.app/",
+      "source": "https://github.com/kavyarajput30/MERN-Blog-App"
+    },
+    {
+      "title": "AirBNB Clone",
+      "imageSrc": "projects/airbnb.png",
+      "description": "This is a project made to learn Backend Technology.",
+      "skills": [ "Express", "Node", "MongoDB", "EJS"],
+      "demo": "https://airbnb-fxdt.onrender.com/listings",
+      "source": "https://github.com/kavyarajput30/AirBnB"
+    },
+    {
+      "title": "TODO App",
+      "imageSrc": "projects/todo.png",
+      "description": "This is a project made to learn the Context API for state management.",
+      "skills": ["React", "Context API"],
+      "demo": "https://magical-swan-e681df.netlify.app/",
+      "source": "https://github.com/kavyarajput30/TODO-"
+    }
+  ]
