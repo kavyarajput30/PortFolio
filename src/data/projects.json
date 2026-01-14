@@ -3,7 +3,7 @@
       "title": "Blog App",
       "imageSrc": "projects/blog.png",
       "description": "This is a project made to learn the MERN Stack.",
-      "skills": ["React", "Express", "Node", "MongoDB"],
+      "skills": ["Node", "Express", "React", "MongoDB"],
       "demo": "https://kavya-blog-app.netlify.app/",
       "source": "https://github.com/kavyarajput30/MERN-Blog-App"
     },
